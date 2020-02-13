@@ -1,0 +1,25 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "node js practice from internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikale/NodePractice.git"
+  },
+  "author": "Bikale Aberra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikale/NodePractice/issues"
+  },
+  "homepage": "https://github.com/bikale/NodePractice#readme",
+  "dependencies": {
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
